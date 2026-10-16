@@ -1,0 +1,10 @@
+.git
+.github
+logs
+*.log
+*.tmp
+.vscode
+tests
+scripts
+grade.sh
+README.md
