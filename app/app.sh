@@ -121,3 +121,4 @@ main() {
 
 main "$@"
 exit $?
+if [[ 1 -eq 1 ]]; then
